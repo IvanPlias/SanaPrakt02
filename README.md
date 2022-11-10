@@ -12,3 +12,5 @@
 -  GitHub
 -  GitLab
 -  Bitbucket
+
+Виконав Пляс І.І.
